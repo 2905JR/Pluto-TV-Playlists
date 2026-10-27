@@ -1,4 +1,4 @@
-name: Auto Pluto Update
+name: Auto Pluto Update test
 
 on:
   schedule:
